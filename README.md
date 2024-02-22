@@ -1,4 +1,5 @@
-![Day_18](https://github.com/opi1001/Day_19/assets/134625691/95267daa-0ec7-4d12-adcb-f85425fc4174)
+![Screenshot (134)](https://github.com/opi1001/Day_19/assets/134625691/5b2f4f16-21bc-41b8-bdb3-325f83b1a4fd)
+
 
 
 ## Getting Started
